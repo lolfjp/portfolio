@@ -1,0 +1,27 @@
+header {
+    font-size: 30px;
+}
+
+ul {
+    text-align: left;
+    padding: 0;
+}
+
+.skills {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.degree, .school, .club, .treasurer{
+    margin: 0;
+}
+
+
+.school, .club {
+    font-weight: bold;
+}
+
+.degree, .treasurer {
+    font-size: 13px;
+}
